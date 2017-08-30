@@ -41,7 +41,7 @@ class predictMovies_forUser:
         self.create_HTML_CSV(predicted_Ratings, "PredictedForAll")
         print("Predicted Ratings for All::")
         print(predicted_Ratings)
-        print("------------------------------------")
+        #print("------------------------------------")
 
         self.predictForUser(predicted_Ratings)
 
