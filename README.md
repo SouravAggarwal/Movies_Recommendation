@@ -1,5 +1,5 @@
 # Movies_Recommendation
-Recommendation System: It helps a user to discover new Movies/Products by predicting Rating on each item for a particular users by Past Experience for that User
+Recommendation System: It helps a user to discover new Movies/Products by predicting Rating on each item for a particular users from Past Experience of that User
 # Requirements
 * pandas
 * numpy
